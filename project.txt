@@ -1,1 +1,2 @@
 ﻿Welcome to my Git workflow project.
+This change was made in the feature branch.
